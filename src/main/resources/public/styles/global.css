@@ -1,0 +1,53 @@
+.container {
+	display:flex;
+}
+
+#globalContainer {
+	flex-direction: row;
+	justify-content: center;
+}
+
+#title {
+    padding: 2vh;
+    font-size: 5vh;
+}
+
+.centerContainer {
+	flex-direction: column;
+	align-items: center;
+}
+
+.el {
+	margin: 5px
+}
+
+.bl {
+	width: fit-content;
+    padding: 10 40 10 40;
+    border: black solid 1px;
+    color: black;
+    text-decoration: none;
+}
+/**
+	bl = border link tag
+**/
+
+.COMMON {
+    background-color: lightgrey;
+}
+
+.UNCOMMON {
+    background-color: lightgreen;
+}
+
+.RARE {
+    background-color: lightblue;
+}
+
+.RARE {
+    background-color: mediumpurple;
+}
+
+.LEGENDARY {
+    background-color: darkorange;
+}

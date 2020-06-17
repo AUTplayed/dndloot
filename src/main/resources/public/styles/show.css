@@ -1,0 +1,26 @@
+.name {
+	font-size: 20px;
+}
+
+.op {
+    margin: 10;
+}
+
+.nav {
+	margin: 10 0 10 0;
+}
+
+.count {
+	margin: 10;
+	font-size: 20px;
+	padding: 0;
+	text-align: center;
+	width: 120px;
+}
+
+#navContainer {
+	justify-content: space-between;
+	align-self: stretch;
+    width: auto;
+    margin: 0 10 0 10;
+}

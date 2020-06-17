@@ -1,0 +1,1342 @@
+[
+  {
+    "name": "Armor of Gleaming",
+    "description": "Rüstung in jeder Art wird nie dreckig",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Band of Loyalty",
+    "description": "If wearer's hit points are reduced to 0 this ring will instantly kill them.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Bead of Refreshment",
+    "description": "If tossed in liquid will Transform them into clear drinking water.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Cast-Off Armor",
+    "description": "You can doff this armor as an action.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Coin of Delving",
+    "description": "sheeded dim light 5-foot radius, when dropped creature can determine.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Candle of the deep",
+    "description": "this candle is not extinquished in water.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Clockwork Amulet",
+    "description": "once a day on a d20 roll you can make that roll a 10.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Cloak of Many Fashions",
+    "description": "While wearing bonus action, can change to any cloak and any appearance.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Chest of Preserving",
+    "description": "DC 15 sleight of hand to open. Its like a Fridge.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Dread Helm",
+    "description": "The dread helm causes someone to become GOBLIN SLAYER.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Horn of Hearing",
+    "description": "On use gives advantage on Perception check relying on hearing.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Everbright Lanter",
+    "description": "Flamer never goes out, sheeds light in 60 foot cone.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Hat of Vermin",
+    "description": "Magic hat where you pull out a bat, a frog, or a rat.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Illuminator's Tattoo",
+    "description": "While you have this tatoo you can write with your fingers.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Lock of trickery",
+    "description": "if you try to pick this lock you have disadvantage on the checks.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Moon-Touched Sword",
+    "description": "Sheed bright light in 15 foot radius and dim light in 15-30 ft.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Orb of shielding",
+    "description": "Spellcasting focus, Reaction reduces dmg 1d4 from attribute of stone.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Perfume of Bewitching",
+    "description": "For 1h gives advantage on Charisma checks.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Potion of Comprehension",
+    "description": "Gives 1h effect of comprehend languages spell.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Potion of Watchful Rest",
+    "description": "Cant magically fall to sleep, still gain benefits long rest awake.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "2d4+ 2 Heal.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Rope of Mending",
+    "description": "Rope can be mended together all the time 50feet rope.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Smoldering Armor",
+    "description": "Armor produces smoke.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Spellshard",
+    "description": "Can Store spells cost 100gp and 24 hours to stores spell inside.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Staff of adornment",
+    "description": "Can levitate items and rotate while whielding or item touched.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Staff of Birdcalls",
+    "description": "10 charges regains 1d6+4 per day, can immitate every bird sound.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Unbreakable arrow",
+    "description": "arrow cant be broken except antimagic field.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Veteran cane",
+    "description": "with command word transforms in longsword and back.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "wand of conducting",
+    "description": "When swung wand made opera music 3 charges a day.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "wand of scowl",
+    "description": "3 charges, humanoid 30ft must suceed dc 10 charisma or must scowl 1min.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "wand of smiles",
+    "description": "3 charges, humanoid 30ft must smile.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Adamantine Armor",
+    "description": "No Crits, Cost",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Bag of Bounty",
+    "description": "With Mark of Hospitality, Can draw Food out of the bag, DC Charisma",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Bag of Holding",
+    "description": "Can Hold things",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Bag of tricks",
+    "description": "Look Dungeon masters handbook.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Blood Spear",
+    "description": "Spear +2, when kill enemy gain 2d6 temp hp.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Boots of Elvenkind",
+    "description": "Steps no sound, advantage on stealth checks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Boots of Striding",
+    "description": "walking Speed 30ft,can jump threes times more.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Boots of the Winterlands",
+    "description": "Resis against cold, Ignore difficult terrain by cold.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Bracers of Archery",
+    "description": "Proficiency with longbow shortbow +2 to damage rolls.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Brooch of Shielding",
+    "description": "Resistance to force damage, Immunity to magic missile.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Cap of Water Breathing",
+    "description": "Cap creates air bubble, command word activate/deactivate.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Circlet of Blasting",
+    "description": "Action Scorching ray, +5 bonus to hit, charge gaing next dawn.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Cirlect of Human Perfection",
+    "description": "wearer medium attractive human.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": " Cloak of Elvenkind",
+    "description": "Advantage on Stealth, Disadvantage on Perception.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Cloak of Protection",
+    "description": "+1 to AC and saving throws.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Coiling Grasp Tattoo",
+    "description": "15ft reach,Action DC 14 STR or 3d6 force damage and grappled.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Cursed Luckstone",
+    "description": "Gain Advantage on a roll, gain disadvantage on another roll.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Doss Lute",
+    "description": "Bard instrument can only be used by bard.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Driftglobe",
+    "description": "Commandword floots around you,emits 60ft daylight.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Dust of Deliciousness",
+    "description": "6 charges, can be sprinkled over food, eating disadv. Wisdom.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Dust of Disappearance",
+    "description": "Creature/Object becomes invisible for 2d4 minutes.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Earworm",
+    "description": "Can Deep speech, read eberron book.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Efficient Quiver",
+    "description": "always weights 2 pounds, can hold all arrow and throwing things.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Elemental Gem",
+    "description": "Call Elementel/color determines, Conjure elemental cast on break.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Eyes of Charming",
+    "description": "3 Charges daily recharge. Action",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Finder's Googles",
+    "description": "Insight check +1d4, Check Object for which Creature has touched it.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Gauntlets of Ogre Power",
+    "description": "Your Strength becomes 19.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Gloves of Missile Snaring",
+    "description": "When ranged hit, reaction to reduce dmg by 1d10 + DEX mod.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Gloves of Thievery",
+    "description": "+5 sleight of hand checks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Googles of Night",
+    "description": "Darkvision 60ft range, increases 60 ft. range.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Goggles of Object Reading",
+    "description": "Once a day Identify, Advantage on Arcana checks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Hat of Disguise",
+    "description": "At will Disguise self casting.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Headband of Intelligence",
+    "description": "Intelligence Stat becomes 19.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Hellfire Weapon",
+    "description": "Sheds light in 5ft radius, on kill stores lesser Souls.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Helm of Comprehending Languages",
+    "description": "Comprehend languages on will.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Helm of Telepathy",
+    "description": "Read in Player's Handbook.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Hew",
+    "description": "+1 Battleaxe this Axe always deals max dmg against plants.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Immovable Rod",
+    "description": "Press Button Rod wont move.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Infernal Puzzle Box",
+    "description": "Always hides Item inside, If puzzle solved item comes out.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Insignia of Claws",
+    "description": "+1 to attack & damage rolls with unarmed strikes and natural weapons.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Javelin of LIghtning",
+    "description": "120ft. range target 4d6 lightning dmg, creatures between DEX DC13.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Keoghtoms Ointment",
+    "description": "Cures Poison, disease, healing wounds. Heals for 1d4+8. 5 Charg.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Lightbringer",
+    "description": "+1 Mace, on command is like Torch, dealing Radiant damage.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Mariners Armor",
+    "description": "Swimming speed",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Mask of the beast",
+    "description": "Mask grants animal friendship spell, recharges every day.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Medaillon of Thoughts",
+    "description": "3 charges, detect thoughts spell DC 13, 1d3 charges day.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Mithral Armor",
+    "description": "Doesnt give disadvantage on Steahlth Checks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Mizzium Apparatus",
+    "description": "Look Guilds of Ravnica book.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Mummy Rot Antidote",
+    "description": "Antidote against Mummy Rot.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Necklace of Adaption",
+    "description": "Can breathe normally any environment, advantage on save which involves breathing.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Nightcaller",
+    "description": "Use Once per week, Can raise 1 ZOMBIE from the Grave no Corpse needed.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Oil of Slipperiness",
+    "description": "Creature freedom of Move 8h, Ground Grease 8h.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Paper Bird",
+    "description": "50 words max, Flies to destination, box with 4-9 of them.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Pearl of Power",
+    "description": "Regain a lvl 3 or lower Spellslot on Action as command.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Periapt of Health",
+    "description": "Immune to diseases.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Periapt of Wound Closure",
+    "description": "Always stabilizes, Hit dice are doubled.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Pipes of Haunting",
+    "description": "3 charges, 1d3 daily, 30ft range Creature hear are frightened for 1 minute if DC 15 WIsdom save failed.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Potion of Fire Breath",
+    "description": "3 times for 1 hour, Exhale fire 30ft saving throw 13DEX 4d6 fire.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Potion of Giant Strength",
+    "description": "Gain 21 Strength for 1 hour.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Potion of Growth",
+    "description": "Enlarge/reduce for 1d4 hour.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Greater Healing Potion",
+    "description": "4d4 +4 healing.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Potion of Resistance",
+    "description": "Random Resistance , 1-Acid, 2-Cold, 3-Fire, 4-Force, 5-Lightning,        6-Necrotic, 7-Poison, 8-Psychic, 9-Radiant, 10-Thunder, for 8 hours.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Propeller Helm",
+    "description": "While worn, cast levitate on self, requiring no components.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Ring of Mind Shielding",
+    "description": "Immune to read thought or insight checks, Creatures can telepathically communicate with you, Action make ring invisible, on die become the ring.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Ring of Obscuring",
+    "description": "Action create fog cloud, 3 charges, recharges 1d3 per day.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Ring of Swimming",
+    "description": "Swimming speed is 40.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Ring of Warmth",
+    "description": "While wearing resistance to cold.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Ring of Shared Suffering",
+    "description": "Comes in Pair, Bonus Action shares Pain with the other.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Robe of Useful Items",
+    "description": "Read DM's Handbook.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Rod of Retribution",
+    "description": "3 Charges recharge dawn, 60ft range DC 13 DEX save, creature takes 2d10 lightning dmg on failed save.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Rod of the Pact Keeper",
+    "description": "Warlocks +1 Spell attack and saving throws, Action regain 1 Warlock spellslot.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Saddle of the Cavalier",
+    "description": "Cant be dismounted, attack rolls against mount disadvantage.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Sending Stone",
+    "description": "Cellphone",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Sentinel Shield",
+    "description": "Advantage on Initiative and Perception checks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Shatterspike",
+    "description": "+1 Longsword, deals double dmg against Objects.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Shield +1",
+    "description": "Its a Shield+1 AMAZING",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Skyblinder Staff",
+    "description": "+1 to attack and damage rolls and spell attacks, flying creature you can see within 30ft you can use reaction to give disadvantage, then DC15 Con save or its blinded.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Slippers of Spider Climbing",
+    "description": "You can Walk up walls climbing speed",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Soul Coin",
+    "description": "A Coun were a Soul is trapped, might answer/can answer.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Spell Gem Obsidian",
+    "description": "Stores 1 Cantrip",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Spell Gem Lapis",
+    "description": "Stores 1 1st lvl Spell.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Spell Scrolls",
+    "description": "2nd and 3rd lvl, look up spellscrolls.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Spies Murmur",
+    "description": "long range Headset, other one with it can hear you 1 mile away.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Staff of Adder",
+    "description": "command summoning Snake Head, Look up Dungeon Master.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Staff of the Python",
+    "description": "Action command, Summons Giant Constrictor snake.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Stone of Good Luck",
+    "description": "+1 to ability checks and saving throws.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Sword of Vengeance",
+    "description": "+1 to attack and damage rolls, disadvantage with other swords, when hit DC 15 Wisdom save, on fail must attack the other creature.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Trident of Fish Command",
+    "description": "3 charges, Action to cast dominate Beast, save DC 15.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Uncommon Glamerweave",
+    "description": "Performance or Persuasion checks, you can add d4.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wand of Entangle",
+    "description": "7 charges, 1d6 + 1 charges daily. Action entangle spell, save DC 13.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wand of Magic Detection",
+    "description": "3 charges, 1d3 daily. Action cast detect magic.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wand of Magic Missile",
+    "description": "7 charges, gain 1d6+1 daily, for every charge 1spell slot magic missile.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wand of War Mage",
+    "description": "+1 wand to spell attack, Ignore half cover on Spell attacks.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wand Of Web",
+    "description": "7 charges, 1d6+1 daily, Action cast Web spell.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Weapon of Warning",
+    "description": "Advantage on initiative rolls. You and allies cant be surprised.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Weapon +1",
+    "description": "AMAZING! Its a weapon +1.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Water Weird",
+    "description": "Summons a Water Weird, when it dies Item destroyed.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Wind Fan ",
+    "description": "Action to cast Gust of Wind. Spell save DC 13.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Winged Boots",
+    "description": "Flying Speed",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Yklwa +1",
+    "description": "Kind of Spear +1 does 1d8 dmg, throwing range 10/30.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Archeron Blade",
+    "description": "+1 weapon, Action to gain 1d4 +4 temp hp recharges daily, When you hit    a creature, you can give disadvantage to saving throws until next turn.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ammunition +2",
+    "description": "Its Ammunition +2 AMAZING.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Amulet of Health",
+    "description": "Your Constitution is 19.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Armor of Resistance",
+    "description": "1 Acid, 2 Cold, 3 Fire, 4 Force, 5 Lightning, 6 Necrotic,7 Poison, 8 Psychic, 9 Radiant, 10 Thunder,",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Armor of Vulnerability",
+    "description": "Resistance to one of bludgeoning,piercing,slashing to the other Vulnerability.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Armor +1",
+    "description": "It's a Armor +1 AMAZING!",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Arrow-Catching Shield",
+    "description": "+2 AC to ranged attacks, when a Creature in 5 ft. range is hit by range you can make it hit you.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Badge of the Watch",
+    "description": "Gain +2 to AC, while you dont wield a shield.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Bag of Beans",
+    "description": "Read Dungeonmasters Handbook.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Barrier Tattoo",
+    "description": "While unprotected AC",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Battering Shield",
+    "description": "+1 Shield, 3 charges 1d3 daily, When push enemy can push 10 more and prone them.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Belt of Dwarvenkind",
+    "description": "Con +2, Advantage on Persuasion with Dwarves, Advantage on saving throws against poison and resistance. Darkvision 60ft, Speak Dwarvish.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Belt of Giant Strength",
+    "description": "Strength becomes 21.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Beserker Axe",
+    "description": "+1 to attack and damage, Hit Points increased by 1 per lvl, CURSED.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Blood Stone",
+    "description": "When casting Spells you may spend life to add dmg to that spell, 1 HP dmg increase by 1, 3HP",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Bonecounter",
+    "description": "+2 mace, Whenever an undead is killed with this mace gain 1 gold.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Boomerang +2",
+    "description": "AMAZING its a Boomerang +2.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Boots of Levitation",
+    "description": "You can cast Levitation on will.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Boots of Speed",
+    "description": "Bonus action to activate, Can double the speed, other creatures disadvantage on opportunity attacks. Can use up to 10 mins a day.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Bowl of Commanding Water Elementals",
+    "description": "Command Word summon water elemental, recharge each day.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Bracer of Fyling Daggers",
+    "description": "Action summon 2 magic daggers, you can throw both of them.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Bracers of Defense",
+    "description": "If unarmoured and no shield +2 to AC.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Brazier of Command Fire Elementals",
+    "description": "Action summon fire elemental, recharge daily.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Butcher's Bib",
+    "description": "Once per Turn reroll melee attack dmg roll, You Crit at 19 or 20.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Canaith Mandolin",
+    "description": "Bard item, read Dungeon Master manuel.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Cape of the Mountebank",
+    "description": "Action cast dimension door. Recharge daily.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Censer of Controlling Air Elementals",
+    "description": "Action summon air elemental, recharge daily.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Charm of Plant Command",
+    "description": "3 charges, recharges daily, action cast speak with plants.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Claws of the Umber Hulk",
+    "description": "Gain burrowing speed of 20ft, can dig through solid rock 1ft per round, can make melee attack 1d8 + STR modifier.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Cli Lyre",
+    "description": "Bard item, read Dungeon Master manuel.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Cloak of Displacement",
+    "description": "Disadvantage on attack roll against you, dmg ceases this effect till next turn, cant be used if restrained.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Cloak of the Bat",
+    "description": "advantage on Stealth checks. dim light fly at 40 ft. speed. also can transform into bat.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Corpse Slayer",
+    "description": "+1 to attack and dmg, undead creatures take 1d8 more dmg and disadvantage against turn undead till next turn.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Daern's Instant Fortress",
+    "description": "Dungeon Master manuel, its a FUCKING FORTRESS.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Dagger of Blindsight",
+    "description": "30ft. blindsight, attack roll can use STR or DEX.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Dagger of Venom",
+    "description": "+1 to dmg and attack, Action to poison blade, duration 1 minute or attack. Attacked creature DC 15 Con save or take 2d10 poison and be poisoned.",
+    "rarity": "RARE"
+  },
+  {
+    "name": " Docent",
+    "description": "read Eberron Manual, basically small spider eye which can walk.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Dodecahedron",
+    "description": "D12 die, can be hurled 60ft on roll get one random effect. Read Online.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Dragon Slayer",
+    "description": "+1 to dmg and attack, dragon takes 3d6 extra damage.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Dragonguard",
+    "description": "+1 breastplate advantage against breath weapons. AC 15 + DEX.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Elixir of Health",
+    "description": "When you drink, curses every disease or condition.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Elven Chain",
+    "description": "+1 chain shirt you are always proficient with this armour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Failed Experiment Wand",
+    "description": "2charges, recharge daily, either casts fireball or lightning at random ( save DC 15 )",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Figurine of Wondrous Power",
+    "description": "read Dungeon Master manuel.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Flame Tongue",
+    "description": "40 ft radius light, deal 2d6 fire dmg if it hits.",
+    "rarity": "RARE"
+  },
+  {
+    "name": " Flying Chariot",
+    "description": "+1 to AC while riding, 40ft flyspeed while riding.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Galder's Bubble Pipe",
+    "description": "3 charges, recharge daily, 1 charge fog cloud, 2 charges misty step bonus action, 3 charges summon steam meephit.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Gambler's Blade",
+    "description": "Blade can be +1 to +3, you take penalty equally chosen to saving throws. Cursed you cant part from this weapon once attuned and wont let someone else touch it.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Gauntlets of Flaming Fury",
+    "description": "Ignite your weapons with fire dealing an extra 1d6 fire on hit. Weapon considered magic, Flames last until you sheath or let go of weapon, use once a day.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Gave of the Venn Rune",
+    "description": "Creatures disadvantage with attacks before your first turn, As an action you can place the Gavel all creatures within 60 ft that attacks another creature takes half the dmg as psychic dmg. You can destroy the emblem on the ground to embue the ground with it, 30ft radius runes when a creature lies within it takes 5 psychic dmg and flinch.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Gem of Seeing",
+    "description": "3charges, 1d3 a day,next 10minutes gain truesight 120ft. while you peer.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ghost Lantern",
+    "description": "30ft radius light additional 30ft dim light, the spirit can leave the lantern and duplicate the effect of mage hand, if you fall unconscious within 10 ft of lantern it touches you and stabilizes you.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ghost Step Tattoo",
+    "description": " 3 charges, regains all, expend one to gain for 1 turn. Resistance against bludgeoning, piercing and slashing damage against nonmagical OR cant be grappled or restrained OR you can move through solid objects.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Giant Slayer",
+    "description": "+1 magic weapon, Giants take 2d6 extra damage and must make DC 15 STR check or knocked prone.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Glamoured Studded Leather",
+    "description": "+1 to AC, bonus action to look like any other set of clothing.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Hellhound Cloak",
+    "description": "Once a day, you can polymorph into a hellhound for 1 hour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Helm of Teleportation",
+    "description": "3 charges, gains 1d3 a day, you can teleport via the spell.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Handy Haversack",
+    "description": "Backpack with 3 bag of holding 1 on each side and 1 central.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Horn of Blasting",
+    "description": "30ft cone audible 600ft, in cone make DC 15 CON save. On fail creature takes 5d6 thunder and is deafened for 1 min. Sucessful half dmg and not deafened. On use 20 chance to destroy itself.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Horn of Valhalla",
+    "description": "Silver horn summons 2d4 +2 berserkers.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Horseshoes of Speed",
+    "description": "When equiped to horse or similiar increase walking speed by 30ft.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ioun Stone",
+    "description": "Stones which fly above head and give you buffs. Dungeon Master manual",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Knave's Eye Patch",
+    "description": "Advantage Perception check, Creatures cant read your thoughts. Creatures can communicate telepathically if you allow it.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Lifewell Tattoo",
+    "description": "resistance to necrotic, if you would reduced to 0 hp you drop to 1 instead",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mace of Disruption",
+    "description": "Undead take 2d6 radiant extra. If 25 hp or lower must suceed DC 15 WIS save or be destroyed, if not failed becomes frightened. 20ft light additional 20ft dim.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mace of Terror",
+    "description": "3 charges, action 1 charge each creature 30 ft radius DC 15 WIS saving throw become frightened for 1 min. Gain 1d3 charges everyday.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mantle of Spell Resistance",
+    "description": "Advantage on saving throws against spells.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Master's Amulet",
+    "description": "commanding shield guardian, if wearer takes dmg amulet takes it instead AC 10 HP 10, it costs 1000 gp and 1 week to craft new one.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mirror of the Past",
+    "description": "Look into it and think then you learn something about the creature or object and its past.+",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mizzium Armor",
+    "description": "Critical hits becomes normal hit, if you take dmg through a STR or CON save take only half and if take half dmg you take no dmg.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Mizzium Mortar",
+    "description": "Read Guild Gates of Ravnica manual.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Molten Bronze Skin",
+    "description": "Doesnt impose disadvantage on DEX, have resistance to fire.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "description": "1d6 +3 beads. Action to throw fireball 60ft, every bead increases lvl by 1.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Needle of Mending",
+    "description": "+1 Dagger, while holding it you can cast the Mending cantrip.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Oil of Etherealness",
+    "description": "The affected creatures gains etherealness spell for 1 hour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Opal of the Ild Rune",
+    "description": "You can ignite objects within 10ft, you have resis against cold, can extinguish any open flame 10 ft. Destroy Rune on Weapon or Armor non magical to gain 1d6 fire dmg extra OR resistance to cold damage while wearing the armor.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Pariah's Shield",
+    "description": "When a creature within 5ft takes dmg you can use your reaction to take the dmg instead, also gain +1 armor for every ally within 5 ft.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Periapt of Proof against Poison",
+    "description": "Immunity to poison condition and damage.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Piercer",
+    "description": "+1 shortsword, always gain maximum Hit Dice, but it twice as much.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Piwafwi of Fire Resistance",
+    "description": "Cloak of Elvenkind with Fire resistance, loses magic if over 1 hour in sun.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Clairvoyance",
+    "description": "Gain effect of clairvoyance spell.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Gaseous Form",
+    "description": "Gain effect of the gaseous form spell for 1 hour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Giant Strength",
+    "description": "Gain 25 Strength for 1 hour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Superior Healing",
+    "description": "8d4 +8",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Heroism",
+    "description": "Gain 10 temporary HP, and gain effect of bless spell for 1 hour.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Invulnerability",
+    "description": "For 1 minute gain resistance to all damage.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Maximum Power",
+    "description": "For 1 minute gain the maximum damage dice.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Potion of Mind Reading",
+    "description": "Gain detect thoughts for 1 min. DC 13.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Animal Influence",
+    "description": "3charges, gain 1d3 a day, Action to cast : ANIMAL FRIENDSHIP, FEAR or SPEAK WITH ANIMALS. save DC 13.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Evasion",
+    "description": "3 charges, regain 1d3 a day, when fail DEX check reaction to suceed instead.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Feather Falling",
+    "description": "Take no falling dmg , and you slowly descend 60ft per round.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Free Action",
+    "description": "Difficult terrain doenst cost movement, movespeed cant be reduced and cant be restrained or paralyzed.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Protection",
+    "description": "You gain +1 to AC and saving throws.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Resistance",
+    "description": "look up Dungeon Master manual to determine.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Spell Storing",
+    "description": "Ring can store up to 5 lvls of spells.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of Temporal Salvation",
+    "description": "If you die you reappear 5ft of unoccupied space, and gain a number of hit point 3d6 + CON modifier, exhaustion lvl reduce by 1 and ring breaks.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ring of the Ram",
+    "description": "3 charges, 1d3 daily, charge at enemy 60ft away make attack roll +7, 5 more for every charge, creature is pushed 5ft away and takes 2d10 force dmg.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Robe of Eyes",
+    "description": "Advantage on Perception, Darkvision 120ft, can see invisible creatures and objects also you can see 120ft Ethereal Plane.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Robe of Summer",
+    "description": "Resistance cold damage. You suffer no ill effects from weather temperature.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Rod of Rulership",
+    "description": "Each creature within 120ft of choice, must suceed DC 15 WIS save or be charmed for 8 hours. While charmed you think of the creature as truste leader, on harm loses this effect.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Rod of the Pact Keeper",
+    "description": "Attunement by Warlock gain +2 on spell attacks and saving throws.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Rope of Entanglement",
+    "description": "Creature within 20 ft you can see must make a DC 15 DEX check or be restrained.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Skorpion armor",
+    "description": "Plate armor with +5 to Initiative, doesnt impose disadvantage to Stealth, dont suffer from the weather enviroments. CURSED",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Shield of Missile Attraction",
+    "description": "Resistance against ranged weapon attacks, missiles in 10 radius hit you instead of another creature.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Shield +2",
+    "description": "AMAZING Its a shield+2.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Spell Gem (Quartz)",
+    "description": "can store up to 3rd lvl Spells, Spells cast from the have save DC 15 and attack bonus of 7.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Spell Scrolls",
+    "description": "of 4th and 5th lvl Spells.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "description": "You can imbue someone with a tattoo and a Spell of 4th and 5th lvl, Save 15-17 and attack bonus 7-9.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Spider Staff",
+    "description": "10 charges, regains 1d6+4 day,Quarterstaff extra 1d6 poison dmg, Spider climb 1 charge, web 2 charges.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of Charming",
+    "description": "10 charges, 1d8+2 a day, can cast charm person, command or comprehend languages.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of Defense",
+    "description": "+1 to AC, 10 charges gain 1d6+4 a day, 1 charge mage armor, 2 charges shield.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of Healing",
+    "description": "10 charges, 1d6+4 a day, 1 charge cure wounds, 2 charges lesser restoration, 5 charges mass cure wounds.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of Swarming Insects",
+    "description": "10 charges, 1d6+4 a day, 4 charges giant insect, 5 charges insect plague.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of the Ivory Claw",
+    "description": "+1 to spell and attack, on crit extra 3d6 radiant damage.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of the Woodlands",
+    "description": "Read Dungeon Master manual.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Staff of Withering",
+    "description": "Quarterstaff 3 charges, 1d3 day, on hit 1 charge to deal 2d10 necrotic dmg, and after DC 15 CON save if fail disadvantage 1h for everything with STR.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Stone of Controlling Earth Elementals",
+    "description": "Summon earth elemental.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Sun Blade",
+    "description": "longsword+2, undead 1d8 extra dmg, 15 ft light and additional 15ft dim light.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Sunforger",
+    "description": "warhammer +2, Action hurl 120ft on land 20ft radius creatures must make DEX check 15, otherwise take 6d6 fire damage or half. Action to reappear.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Sword of Life stealing",
+    "description": "on crit target takes extra 10 necrotic and you gain 10 temp HP.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Sword of Wounding",
+    "description": "HP lost by this weapon cant regain HP except rest, When you hit a creature WOUND that target, it takes 1d4 necrotic every turn after it make CON save DC 15.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Tentacle Rod",
+    "description": "Read Dungeon Master manual.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Ventilating Lungs",
+    "description": "Replace Lungs, advantage on all checks relying on breathing, as an action you can cast gust of wind spell DC 15.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Vicious Weapon",
+    "description": "Whenever you crit creature takes 2d6 extra piercing.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Binding",
+    "description": "7 charges, 1d6+1 day, 5 charges hold monster, 2 charges hold person, Spell DC 17.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Enemy Detection",
+    "description": "7 charges, 1d6+1 day, for 1 minute you know 60ft enemy.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Fear",
+    "description": "7 charges,1d6+1 day, 1 charge COMMAND, 2 charges creatures in 60 ft cone must suceed DC 15 WIS save, or be frightened for 1 min.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Fireballs",
+    "description": "7 charges, 1d6+ 1 day, 1 charge",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Lightning Bolts",
+    "description": "7 charges, 1d6+1 day, 1 charge",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Paralysis",
+    "description": "7 charges, 1d6+1 day, 1 charge",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of War Mage",
+    "description": "+2 to spell attacks, ignore half cover.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Winter",
+    "description": "7 charges, 1d6+1 day. Action to cast ray of frost no charge or 1 charge for 5th lvl +5 to hit, 3 charge sleet storm DC 15, 4 charges ice storm.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wand of Wonder",
+    "description": "7 charges, 1d6+1 day, random effect read book or online.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Weapon of Certain Death",
+    "description": "the target cant regain HP till next turn.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Weapon +2",
+    "description": "AMAZING its a WEAPON+2.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Wings of Flying",
+    "description": "Command word cloak turns into bat or bat wings for 1 hour, flying speed 60 ft, recharge 1 day.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Yklwa +2",
+    "description": "AMAZING its a Yklwa+2.",
+    "rarity": "RARE"
+  }
+]

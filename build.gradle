@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'codes.fepi'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'codes.fepi', name: 'ldfSpark', version: '1.1'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.7'
+}
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': 'codes.fepi.Main'
+    }
+    archiveBaseName.set(project.name + '-fat')
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
