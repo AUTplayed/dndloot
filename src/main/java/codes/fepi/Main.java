@@ -19,7 +19,7 @@ public class Main {
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 		Repository.INSTANCE.initData(MAPPER.readValue(Main.class.getClassLoader().getResource("data.json"), ref));
-		Spark.port(8080);
+		Spark.port(6020);
 		LdfSpark.start();
 	}
 }
