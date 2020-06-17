@@ -5,6 +5,8 @@ plugins {
 group 'codes.fepi'
 version '1.0'
 
+sourceCompatibility = 1.8
+
 repositories {
     mavenCentral()
 }
@@ -18,7 +20,7 @@ task fatJar(type: Jar) {
     manifest {
         attributes 'Main-Class': 'codes.fepi.Main'
     }
-    archiveBaseName.set(project.name + '-fat')
-    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    baseName = project.name + '-fat'
+    from { configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
     with jar
 }
