@@ -1338,5 +1338,460 @@
     "name": "Yklwa +2",
     "description": "AMAZING its a Yklwa+2.",
     "rarity": "RARE"
+  },
+  {
+    "name": "Absorbing Tattoo",
+    "description": "Tattoo randomly color 1-10, when taking damage from this type, can use reaction to gain immunity to dmg, and heal for the dmg.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Ammunition +3",
+    "description": "Its a pack of 20 Arrows, AMAZING!",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Amulet of the Black Skull",
+    "description": "Read Tomb of Annihilation ( Abercarak )",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Amulet of the Planes",
+    "description": "While attnuned, action with DC 15 Intelligence check, on sucess cast plane shift. On fail you and all creatures within 15 ft. are teleported to random destination.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Animated Shield",
+    "description": "While attuned, bonus action speak command word to animate. It protects you like you are wielding a shield, it ends when you speak its command word or till you are incapacitated.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Anstruth Harp",
+    "description": "Requires Bardic Attunement, Can cast varios Spells, read Dungeon Master Guidebook for more infos.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Arcane Cannon",
+    "description": "Ship attachment, is a small miniature cannon till you speak its commmand word once, then it expands into a big cannon.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Armor +2",
+    "description": "AMAZING!!! ITS A ARMOR +2.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Bag of Devouring",
+    "description": "Creatures that touch the inside have a 50 percent chance to get sucked in, the creature can attempt to escape with a sucessful DC 15 Strength check, or another creature can pull him out with a DC 20 Strength check.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Barrier Tattoo",
+    "description": "While you are unarmored your AC becomes 18, you can still use a shield to gain this bonus.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Belt of Frost Giant Strength",
+    "description": "Whille attuned Strength becomes 23.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Belt of Fire Giant Strength",
+    "description": "While attunend Strength becomes 25.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Blast Scepter",
+    "description": "Is a Arcane focus, while attuned resistance against fire and lightning dmg, u can cast 4th lvl thunderwave without expending spell slots.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Bloodaxe",
+    "description": "+2 to attack and dmg rolls, axe deals 1d6 additional necrotic damage to everything except constructs and undeads. If you kill creature gain 10 temp HP.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Boomerang +3",
+    "description": "AMAZING!!!! Its a BOOMER +3.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Bracelet of Rock Magic",
+    "description": "While attuned immun to petrified, can cast flesh to stone three times a day and stone shape as much as you want.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Candle of Invocation",
+    "description": "You can destroy it the first time you use it and cast gate, or everybody in 30 ft. radius of same allignment gets buffs, cleric gets more buffs.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Carpet of Flying",
+    "description": "3 ft. x 5.ft carpet of fyling with flying speed 80.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Chronolometer",
+    "description": "While attuned gain +1 to INT saving throws and gain 1 language you dont know. On start of your turn roll d6 on 1-3 gain additional action this turn on 4-6 you warn youself what will happen in the future and gain advantage on the next saving throw. Second ability basically the same except only for allies.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Cloak of Arachnida",
+    "description": "While attuned resistance to poison dmg, climbing speed",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Conch of Teleportation",
+    "description": "Requires Attunement, once a day you can cast TELEPORT by blowing into the shell on a fixed location, which you locate only once while this item exists.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Crystal Ball",
+    "description": "Requires Attunedment, While touching cast SCRYING spell (save DC 17) While scrying you can cast detect thought and suggestion and have TRUESIGHT.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dancing Sword",
+    "description": "Bonus action to toss sword and speak command word. The sword flies up to 30ft per command and can attack 1 enemy as part of the same bonus action using your modifiers.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Demon Armor",
+    "description": "Plate armor +1, you can speak abyssal, and your fists are magically have +1 to attack rolls and deals 1d8 dmg.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dimensional Loop",
+    "description": "While attuned you have +1 to Strength saves and darkvision 60ft. Once a day bonus action can phase out of the material world for 1 minute giving you advantage on Stealth checks, and enemys disadvantage with attack rolls. Once a day you can interract with objects 60 ft. from you away that also means you can teleport there without provoking attack of opportunities.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dragon Scale Mail",
+    "description": "requires attunement, plate armor +1, you have advantage on Frightful Presence and breath weapons against dragons. and gain random dmg resistance determined by the color of dragon.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dwarven Plate",
+    "description": "Plate armor +2 and if an effect moves you against your will u can use your reaction to reduce the distance by 10ft.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dwarven Thrower",
+    "description": "Attunement warhammer, +3 magical weapon, throwing range 20/60 if you hit the with this in a ranged attack deal 1d6 extra, if giant increases to 2d6. After the throw the weapon immediately returns.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Dyrrn's Tentacle Whip",
+    "description": "Attunement can only be ended when a remove curse is castet on you. +2 magical weapon, creature hit by this whip takes a 1d6 extra psychic dmg, and on a attack roll of 20 the creature is stunned until end of next turn. Reach of 10 and you can use either Strength or Dex for attack rolls.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Efreeti Bottle",
+    "description": "Roll d100 to determine whats inside on 1-10 the efreeti fights you on 11-90 the efreeti fights for you on 91-100 the efreeti has 3 wish spells for you.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Far Gear",
+    "description": "While attuned +1 to Charisma saving throws and advantage on Charisma checks. Once a day you can cast conjure celestial except its actually a aberration of CR 4 or lower. Once a day you can cast Bane on any number of creatures for 1 minute.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Figurine of Wondrous Power ( Obisidian Steed)",
+    "description": "Summon nightmare for up to 24 hours once used can only be used all 5 days.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Frost Brand",
+    "description": "When you hit enemy 1d6 extra cold damage. In addition, while you hold the sword resistance against fire damage.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Helm of Brilliance",
+    "description": "Effect of Frostbrand while it has Gems, plus you can cast daylight, fireball, prismatic spray or wall of fire when removing gems from it. Read dungeon masters compendium.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Horseshoes of a Zephyr",
+    "description": "When on Mount the mount hover 4 inches above the ground, it doesnt take any disadvantages from ground anymore, cant be in water anymore or lava.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Illusionist's Bracers",
+    "description": "While wearing the bracers, whenever you cast a cantrip, you can use a bonus action on the same turn to cast that cantrip a second time.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Ioun Stone",
+    "description": "Random Determined between, Absorption, Agility, Fortitude, Insight, Intellect, Leadership, Strength.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Kyrzins Ooze",
+    "description": "While attuned resistance to poison and acid damage and your immune to poison condition. Once a day you can make yourself to a Ooze and can quench through 1 inch places. Once a day you can use 30 foot line acid breath dealing 8d8 acid damage on failed save.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Living Armor",
+    "description": "+1 to AC, resistance to necrotic, poison and psychic but you have to feed half of your Hit Dice to the armor or get 1 lvl of exhaustion.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Manual of Bodily Health",
+    "description": "Book of +2 Con when reading for 48 hours.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Manual of Gainful Exercise",
+    "description": "Book of +2 STR when reading for 48 hours.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Manual of Golems",
+    "description": "Book of Golem creation roll d20 to determine. More information in Dungeon master book.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Manual of Quickness of Action",
+    "description": "read for 48h in 6 days and grants you +2 DEX.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Marvelous Pigments",
+    "description": "There are 1d4 pots inside, everything painted with them becomes real, if painted 2d becomes 3d.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Mirror of Life Trapping",
+    "description": "4ft tall mirror, 50 pounds heavy AC 11, HP 10, speak command word to activate, traps all people doesnt suceed 15 Charisma save except who said command word. Can hold 12 creatures, creatures trapped within can only see 10ft and are trapped in a cell. you have advantage if you know the mirror nature and constructs succeed. While within 5 ft. of mirror you can call a creatures name or cell number and free it. When shattered all freed.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Moon sickle",
+    "description": "Ranger and Druids can use it as spell focus, can be +1/+2/+3. Add modifiers to spell DC and spell attack. All healing done with Sickle you can add a d4 to it.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Navigation Orb",
+    "description": "This item is binded on a Castle you can navigate that castle it also can fly.  It can fly 1 mp/h.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Nine Lives Stealer",
+    "description": "Sword +2 to attack and damage rolles, 9 charges. If creature hit with fewer than 100 HP, make DC 15 CON save or be slain instantly, undead or constructs are immune. The sword loses 1 charge if creature slain this way.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Oathbow",
+    "description": "When nock in arrow bow whispers in elvish '' Swift deafeat to my enemies''. you can respond ''Swift death to you who have wronged me''. Target becomes sworn enemy until it dies or it wears of after 1 minute. Can only have 1 sworn enemy. You have advantage with attacks against sworn enemy and no disadvantage through cover. If attack hits deal 3d6 extra piercing dmg. You have disadvantage with other weapons while you have a sworn enemy.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Oil of sharpness",
+    "description": "Apply oil your item becomes magical and has +3 bonus to attack and damage rolls.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Orb of the veil",
+    "description": "Onxy sphere dangling from a iron chain. You have +2 to Wisdom, Darkvision up to 60ft, if have it increases by 60ft. Advantage on finding hidden doors and paths. Curse you are unwilling to part with it when attuned, you treasure it like golem his precious and nonmagical flames extinguish with 30 ft and you take half fire dmg.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Peregrine Mask",
+    "description": "While wearing this winged helm, you have a flying speed of 60 feet. In addition, you have advantage on initiative rolls.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Polymorph blade",
+    "description": "On 20 attack roll, creature must suceed on DC 15 Wisdom save, or suffer Polymorph spell. It is random determined by d20 which creature he is transformed to. Cursed if you roll a NAT 1, you become afflicted with Polymorph.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Potion of Flying",
+    "description": "Can fly for 1 Hour equal to walking speed.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "potion of Giant Strength",
+    "description": "Gain 27 Strength for 1 hour.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Potion of Healing",
+    "description": "Supreme Healing Potion 10d4+20 Hp.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Potion of Invis",
+    "description": "Gain invis for 1 Hour.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Potion of Speed",
+    "description": "You gain effect of the haste spell for 1 minute.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Reincarnation dust",
+    "description": "When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the reincarnate spell had been cast on the remains.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Ring of Regeneration",
+    "description": "While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Ring of Shooting Stars",
+    "description": "6 charges, regains 1d6 daily, 1 Charge cast faerie Fire. 2 Charges Create 1-4 spheres of Lightning, each sphere appears in 120feet of you where you can see. Bonus action you can move a sphere 30ft can move multiple. Creatures within sphere must make DC 15 DEX or take 4d12, 5d4, 2d6, 2d4 dmg depends how many sphere you have casted. 1-3 charges can be depleted to target 1-3 creatures all make DC 15 DEX save or take 5d4 fire damage or half as much on sucessful.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Ring of Telekinese",
+    "description": "While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Robe of Scintillating Colors",
+    "description": "3charges, regain 1d3 daily. While weared, action to expend 1 charge. Until end of your next turn, you shed bright light 30 ft. radius for an additional 30ft. Creatures which see you have disadvantage against you, and while active creatures must suceed DC 15 WIs save or be stunned until the effect ends.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Robe of Stars",
+    "description": "+1 to saving throws, Throw the stars on it as if magic missile lvl 5 casted, as action you can go to astral plane.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Rod of Absorbtion",
+    "description": "Reaction you can Absorb spell directly affecting you, can store up to 50 levels of spell, after it cant absorb anymore and caster can convert this energy in other spells. After consuming 50 lvls it become non magical.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Rod of Alertness",
+    "description": "While holding, advantage to Perception and Intiative. While holding can cast detect evil and good, detect magic, detect poison and disease or see invis. As an Action, you can ram the Rod into the ground and it sheed 60 ft bright light and 60 ft dim light after that. While in bright light allies within get +1 AC and can see invis creatures.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Rod of Security",
+    "description": "Action to activate it, you and 199 other willing creatures that you can see, are ported into a paradise you decide can be anything, contains enough food and water to sustain visitors time moves normally. each hour spent in paradise gives you 1 hit dice. Can stay 200 days there divided through visitors after exiting the paradise staff needs 10 days to recover.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Rod of the pact keeper +3",
+    "description": "+3 to spell and saving throws to warlock spells, Action to regain 1 warklock spell slot once a day.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Rotor of Return",
+    "description": "+1 to CON while attuned, once a day you can call upon a item worth about 50 gp and the item magically appears near you, but the item vanishes 10 minutes after it appears, you can designate one point where you stand and use your bonus action to teleport back to it aslong you are in a range of 500ft of it.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Scimitar of Speed",
+    "description": "+2 to attack and dmg rolls, can use bonus action as one extra attack.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Shard of the Ise Rune",
+    "description": "while attuned you have fire resistance, once a day you can touch a water and the water freezes in a 10-foot-radius. You can use your action to touch a creature, the creature bets an icy mantle, the next time they take bludgeoning,piercing or slashing dmg that dmg is reduced to zero and the mantle is destroyed. Once a day you can cast sleet storm save DC 17. You can transfere the rune to nonmagical items ( read more online).",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Shield of the Uven Rune",
+    "description": "while attuned immune to cold dmg, after a melee attack hits you use reaction to deal 3d6 necrotic dmg to that creature. Once a day you can cast BANE spell DC 17, you can transfer this rune to a rind or weapon read online.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Shield +3",
+    "description": "it s a shield +3.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Spear of Backbiting",
+    "description": "req. Attunement, +2 to attack and dmg rolls, throw range is 30ft longer, deals one extra dmg, after you throw it it comes back immediately. When you roll a 1 the spear attack you in the back with advantage.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Spell gemstone topaz",
+    "description": "can store up to lvl 6 spells. 1 of them.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Spellguard Shield",
+    "description": "req attunement, while holding this shield you have advantage against spells or other magical effects and spell attacks have disadvantage against you. And normal properties of shields.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Dunamancy",
+    "description": "req attunement, 10 charges 1d6 + 4 charges daily. Last charge roll d20 on 1 staff goes puff. Fortunes favor (2 charges), pulse wave (3 charges), gravity sinkhole (4 charges), while holding this staff when you fail a save against a spell you can suceed instead ( once a day).",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Fate",
+    "description": "req attunement, quarterstaff +3 to attack and dmg rolls, 6 charges, gains 1d6 charges a day. You can use bonus action to give a creature a d4 dice it can use the dice for everything until your next turn.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Fire",
+    "description": "req attunement, resistance to fire dmg, 10 charges 1d6+4 daily, burning hands (1 charge), fireball (3 charges), wall of fire (4 charges).",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Frost",
+    "description": "req attunement, resistance to cold dmg, 10 charges 1d6+4 daily, cone of cold (5 charges), fog cloud ( 1 charge), ice storm (4 charges), wall of ice (4 charges).",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Power",
+    "description": "req attunement, +2 to attack and dmg rolls and +2 to AC. and 20 charges read more in PHP.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Staff of Striking",
+    "description": "req attunement, +3 to attack and dmg rolls, 10 charges 1d6+4 charges daily, use 3 charges to deal an extra 1d6 force dmg.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Sword of the Paruns",
+    "description": "Longsword +1 to attack and dmg rolls, once a turn you can enable a creature in 60 ft to, after you use attack action, you can use your reaction to enable one creature to make one weapon attack, after you use dash action enable creature to move up to its speed. When you use dodge action enable a creature to use it.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Tome of Clear Thought",
+    "description": "48 hours learning for +2 to int.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Tome of Leadership and Influence",
+    "description": "48 hours learning for +2 to charisma.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Tome of Understanding",
+    "description": "48 hours learning for +2 to wisdom.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Wand of the War Mage +3",
+    "description": "gives you +3 to dmg and attack rolls.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Watchful Helm",
+    "description": "req attunement, while attuned +1 to AC you remain aware of your surroundings even while sleeping, advantage on Perception checks. As bonus action you can cast see invisibility from this helm.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Weapon +3",
+    "description": "its a weapon +3.",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Yklwa +3",
+    "description": "ist a yklwa +3",
+    "rarity": "VERY_RARE"
+  },
+  {
+    "name": "Wheel of Stars",
+    "description": "req attunement, while attuned +1 to Wisdom saving throws, action to cast dancing lights, guidance or message cantrips.Once a day as a reaction when you see a creature in 60 doing a check you can roll a d10 and or subtract the outcome to that creatures roll. Once a day you can cast fly or levitate on yourself.",
+    "rarity": "VERY_RARE"
   }
 ]
