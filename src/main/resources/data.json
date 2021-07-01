@@ -1335,11 +1335,6 @@
     "rarity": "RARE"
   },
   {
-    "name": "Spell Scrolls",
-    "description": "of 4th and 5th lvl Spells.",
-    "rarity": "RARE"
-  },
-  {
     "name": "Spellwrought Tattoo",
     "description": "You can imbue someone with a tattoo and a Spell of 4th and 5th lvl, Save 15-17 and attack bonus 7-9.",
     "rarity": "RARE"
@@ -1487,6 +1482,76 @@
   {
     "name": "Yklwa +2",
     "description": "AMAZING its a Yklwa+2.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Moon sickle",
+    "description": "req attunement by ranger or druid, +2 attack and damage rolls and to spell attack rolls and save DCs, when you cast a spell you can roll a d4 and restore that amount of hit points.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Alchemical Compendium",
+    "description": "requires attunement by a wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Astral Shard",
+    "description": "req attunement by sorcerer, when you metamagic while attuned to the shard, you can immediately teleport 30ft.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Astromancy archive",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Atlas of Endless Horizons",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Eagle Whistle",
+    "description": "3 charges, all daily, while blowing the wistle you can fly twice your walking speed, you can blow in it 5 + five times your CON modifier.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Elemental Essence Shard",
+    "description": "req attunement from sorcerer, when using metamagic you immediately roll a d4 and you can an elemental effect, read Tashas Cauldron for more infos.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Hell Hound Cloak",
+    "description": "req attunement, Action to transform into hell hound, works just like polymorph, cursed you cant part with it and you are unwilling to part with it while cursed, every sixth time and every time after it you must make a DC 15 Charisma save, On fail you cant transform back until dispelled or your hitpoints hit 0, after 6 hours the transformation becomes permanent, to dispel casat remove curse.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Fulminating Treatise",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Heart Weavers Primer",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Libram of souls and flesh",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Protective Verses",
+    "description": "req attunement by wizard, read Tashas Cauldron for the details.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Revelers Concertina",
+    "description": "req attunement by Bard, +2 to saving throws, as action once a day you can cast ottos irresistible dance.",
+    "rarity": "RARE"
+  },
+  {
+    "name": "Shadowfell Shard",
+    "description": "req attunement by sorcerer, when you use metamagic curse one creature targeted, until end of your next turn choose and ability mod the creature has disadvantage involving this ability.",
     "rarity": "RARE"
   },
   {
