@@ -15,6 +15,11 @@
     "rarity": "COMMON"
   },
   {
+    "name": "Beads of Nourishment",
+    "description": "Bubblegum worth 1 day ration.",
+    "rarity": "COMMON"
+  },
+  {
     "name": "Cast-Off Armor",
     "description": "You can doff this armor as an action.",
     "rarity": "COMMON"
@@ -152,6 +157,106 @@
   {
     "name": "wand of smiles",
     "description": "3 charges, humanoid 30ft must smile.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "boots of False Tracks",
+    "description": "While wearing those boots you can choose which tracks you leave.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Chest of Preserving",
+    "description": "Things put in the chest cannot spoil, age, decay or perish. Measurements",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Cleansing stone",
+    "description": "You can touch the stone and use your action to remove all dirt from your garments.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Feather Token",
+    "description": "When Falling at least 20ft the token activates, you descend 60ft per round but take on landing no fall dmg.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Fernian Ash Wand",
+    "description": "req Atunnment . IF you cast a fire dmg dealing spell, your fire spell deals 1 more dmg.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Lamannian Oak Wand",
+    "description": "req attunement . If you cast an lightning spell that deals dmg it deals 1 more dmg.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Mabaran Ebony Rod",
+    "description": "req attunement. If you cast an necrotic spell that deals dmg it deals 1 more dmg.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Mystery Key",
+    "description": "Its a key which opens any door with a 5 % chance, once it opens one it dissapears.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Orb of Gonging",
+    "description": "5-inch-diameter orb weighs 5 pounds. You can use your action to gong it every creature within 600 ft can hear it for 6 secs.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Orb of Time",
+    "description": "While holding this orb you can see if its morning, afternoon, evening, or nighttime.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Pipe of Remembrance",
+    "description": "A bong, after you exhale it, the smoke forms shapes and reenact your most heroic achievments for 5 mins.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Pole of Angling",
+    "description": "you can transform the pole by saying its command word, transform into fishing rod.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Pot of Awaakening",
+    "description": "You can grow a mushrooms in it after 30 days the shrub breakes the pot and a AWAKENED SHRUB spawns, its friendly towards you and obeys your commands.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Risian Pine Focus",
+    "description": "req attunement, when dealing dmg with cold spells it does +1 more dmg.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Shield of Expression",
+    "description": "This shield bears a face on it, you can alter the face on the shield if you want as a bonus action.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Shiftweave",
+    "description": "Speak command word as bonus action transform this clothing piece into one of the 5 other option you designate.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Spellwrought tattoo",
+    "description": "you write down a spell on your skin with the magical ink the spell lvl can be cantrip or 1st lvl, after you use it the tattoo vanishes.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Talking doll",
+    "description": "you can tell the doll 6 phrases which has a maximum word count of 6 words, and a observable condition when it should tell a specific phrase.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "tankard of PLenty",
+    "description": "you can speak command word ''illefarn'' then the tankard fills itself full with three pints of rich dwarven ale. this can be used three time per day.",
+    "rarity": "COMMON"
+  },
+  {
+    "name": "Vox Seeker",
+    "description": "looks like a metallic crab you can wind it up for every wind up it stays, awake for 1 minute up to 10 minutes, then it transforms into a vox seeker the vox seeker obeys the dm.",
     "rarity": "COMMON"
   },
   {
