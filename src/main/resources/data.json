@@ -266,7 +266,7 @@
   },
   {
     "name": "Bag of Bounty",
-    "description": "With Mark of Hospitality, Can draw Food out of the bag, DC Charisma",
+    "description": "Can draw Food out of the bag, DC Charisma",
     "rarity": "UNCOMMON"
   },
   {
@@ -755,8 +755,53 @@
     "rarity": "UNCOMMON"
   },
   {
-    "name": "Yklwa +1",
-    "description": "Kind of Spear +1 does 1d8 dmg, throwing range 10/30.",
+    "name": "Amulet of the Drunkard",
+    "description": "Once a day you, when you drink alcoholic beverage you can gain 4d4 +4 hit points back.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Barrier Tattoo",
+    "description": "req attunement, while wearing this tattoo your armor is 12+ your dexterity modifier. You can still use a shield.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Bloodwell Vial",
+    "description": "req attunement by sorcerer, +1 to spell attack rolls and save DCs, in addition once a day when you recover spell HP due to rest, you can regain 5 Sorcerer points.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Decanter of Endless Water",
+    "description": "weighs 2 pounds has unlimited water, Stream",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Eldricht Claw Tattoo",
+    "description": "req attunement, while attuned your unarmed strikes are magical and deal +1 dmg and +1 to attack rolls, once a day as bonus action you can empower the tattoo for 1 minute each of your melee attacks have a range of 15 ft, and deal an additional 1d6 force dmg on hit.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Feywild shard",
+    "description": "req attunement by sorcerer, once a day when you use meta magic you can roll the wild magic surge table, if you are wild magic sorcerer you can do it everytime you metamagic.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Guardian Emblem",
+    "description": "req attunement, 3 charges regains all daily, if a creature gets critical hit within 30ft and you can see it, you can expend 1 charge to make it a normal hit.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Moon sickle",
+    "description": "req attunement by ranger or druid, +1 attack and damage rolls and to spell attack rolls and save DCs, when you cast a spell you can roll a d4 and restore that amount of hit points.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Natures Mantle",
+    "description": "req attunement, while slightly obscured, you can hide as a bonus action.",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "name": "Serpent Scale Armor",
+    "description": "Scale armor you can apply full dexterity modifier to AC, and it doesnt impose disadvantage on Stealth checks.",
     "rarity": "UNCOMMON"
   },
   {
